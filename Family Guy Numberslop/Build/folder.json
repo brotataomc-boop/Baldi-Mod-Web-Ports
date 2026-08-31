@@ -1,0 +1,18 @@
+{
+"companyName": "DefaultCompany",
+"productName": "WAAAAA",
+"productVersion": "1.4.3",
+"dataUrl": "folder.data.unityweb",
+"wasmCodeUrl": "folder.wasm.code.unityweb",
+"wasmFrameworkUrl": "folder.wasm.framework.unityweb",
+"wasmSymbolsUrl": "folder.wasm.symbols.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "folder.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.8f1"
+}
